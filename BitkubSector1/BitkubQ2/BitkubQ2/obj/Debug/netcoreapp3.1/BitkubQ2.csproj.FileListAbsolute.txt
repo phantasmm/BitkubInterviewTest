@@ -1,0 +1,13 @@
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\bin\Debug\netcoreapp3.1\BitkubQ2.exe
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\bin\Debug\netcoreapp3.1\BitkubQ2.deps.json
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\bin\Debug\netcoreapp3.1\BitkubQ2.runtimeconfig.json
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\bin\Debug\netcoreapp3.1\BitkubQ2.runtimeconfig.dev.json
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\bin\Debug\netcoreapp3.1\BitkubQ2.dll
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\bin\Debug\netcoreapp3.1\BitkubQ2.pdb
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\obj\Debug\netcoreapp3.1\BitkubQ2.csprojAssemblyReference.cache
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\obj\Debug\netcoreapp3.1\BitkubQ2.AssemblyInfoInputs.cache
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\obj\Debug\netcoreapp3.1\BitkubQ2.AssemblyInfo.cs
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\obj\Debug\netcoreapp3.1\BitkubQ2.csproj.CoreCompileInputs.cache
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\obj\Debug\netcoreapp3.1\BitkubQ2.dll
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\obj\Debug\netcoreapp3.1\BitkubQ2.pdb
+C:\Users\jakkr\Desktop\BitKub\BitkubQ2\BitkubQ2\obj\Debug\netcoreapp3.1\BitkubQ2.genruntimeconfig.cache
